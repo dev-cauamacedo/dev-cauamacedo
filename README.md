@@ -26,7 +26,8 @@ Atualmente cursando o 2° período de Ciência da Computação na Universidade C
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Terminal](https://img.shields.io/badge/CLI-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
 #### 🗄️ Banco de Dados
@@ -44,11 +45,26 @@ Atualmente cursando o 2° período de Ciência da Computação na Universidade C
 
 ### 📂 Portfólio de Projetos
 
-#### 🐍 Python & Automação
+#### 🐍 Python
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](https://github.com/dev-cauamacedo/automacao-excel-python) |
+| **Gerenciador de Tarefas Diário** | Aplicação CLI (interface via terminal) em Python para organização de rotina, horários e status de tarefas. | [Ver Projeto](https://github.com/dev-cauamacedo/gerenciador-tarefas-diario-python) |
+
+
+#### ⚙️ Automação de Processos
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Automação Excel com Python** | Automação em Python (Pandas e expressões regulares) que interpreta a descrição de cada item e preenche planilhas de subida em lote. Resultado: **80% mais rápido** e erros praticamente zerados. | [Ver Projeto](https://github.com/dev-cauamacedo/automacao-excel-python) |
+
+
+#### 🗄️ Banco de Dados & Modelagem
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **RedFit Database Modeling** | Sistema de gestão para academia RedFit, desenvolvido para modelagem conceitual, levantamento de requisitos, regras de negócio e modelagem de dados. | [Ver Projeto](https://github.com/dev-cauamacedo/redfit-database-modeling) |
+
 
 #### 🤖 Inteligência Artificial Aplicada
 
